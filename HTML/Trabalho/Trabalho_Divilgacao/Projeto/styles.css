@@ -73,6 +73,20 @@
             text-shadow: 0 0 10px var(--neon-blue);
         }
 
+        .social-links {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            gap: 8px;
+            padding-right: 10px;
+        }
+        
+        .rede {
+            display: flex;
+            justify-content: center; 
+            align-items: center;
+        }
+
         /* Vou validar os demais CSS */
         
         .cyber-grid {
